@@ -1,0 +1,85 @@
+*.json
+*.idea
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment directories
+venv/
+.env/
+.env.bak/
+.venv/
+
+# Distribution/Packaging
+.Python
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyCharm IDE files
+.idea/
+
+# VS Code files
+.vscode/
+
+# Pycharm's project-specific files
+*.iml
+*.ipr
+*.iws
+
+# Mac OS generated files
+.DS_Store
+Thumbs.db
+
+# Windows generated files
+*.log
+*.stackdump
+
+# MyPy type checker reports
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Bandit security scanner
+.bandit/
+
+# SQLite database files
+*.sqlite3
+
+# Static analysis tools
+.pylint.d/
+
+# Flask/Django local files
+instance/
+web_scraper_code_structure/
+settings.py
+
+# Local media uploads
+media/
+
+# Scraped image files (specific to your project)
+images/
